@@ -1,7 +1,7 @@
 Запуск проекта:
 
 1) Clone this repo
-2) cd test
+2) cd test-master
 3) npm install
 4) установите и запустите MongoDB
 5) npm start
