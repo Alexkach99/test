@@ -4,4 +4,4 @@
 2) npm install
 3) установите и запустите MongoDB
 4) npm start
-5) open localhost:8080
+5) откройте localhost:8080
