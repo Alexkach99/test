@@ -1,7 +1,9 @@
 Запуск проекта:
 
-1) перейдите в директорию проекта
-2) npm install
-3) установите и запустите MongoDB
-4) npm start
-5) откройте localhost:8080
+1) Clone this repo
+2) cd test
+3) перейдите в директорию проекта
+4) npm install
+5) установите и запустите MongoDB
+6) npm start
+7) откройте localhost:8080
